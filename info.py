@@ -1,0 +1,6 @@
+name =input("enter name 😊")
+dob = input("enter date of birth🎂")
+city = input("enter city🏠")
+collage = input("enter collage")
+fav_song = input("enter fav song")
+print(name,dob,city,collage.fav_song)
